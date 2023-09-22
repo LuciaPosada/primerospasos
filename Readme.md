@@ -2,4 +2,4 @@
 
 > Esto es una cita
 
-** bold **
+**negrita**
