@@ -30,7 +30,7 @@ Gregor Johann Mendel formuló las hoy llamadas [leyes de Mendel](https://www.you
 1. Avisar
 1. Socorrer
 
-1. Paella Española
+*. Paella Española
    - Ingredientes:
      - 400 gr de arroz redondo
      - 800 ml de caldo de pescado
