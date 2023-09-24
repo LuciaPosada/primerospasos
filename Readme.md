@@ -30,15 +30,15 @@ Gregor Johann Mendel formuló las hoy llamadas [leyes de Mendel](https://www.you
 1. Avisar
 1. Socorrer
 
-*. Paella Española
-   - Ingredientes:
-     - 400 gr de arroz redondo
-     - 800 ml de caldo de pescado
-     - Azafrán
-     - 250 gr de almejas o chirlas
-     - Sal
-     - 12 gambas
-   - Preparacion:
+- Paella Española
+  - Ingredientes:
+    - 400 gr de arroz redondo
+    - 800 ml de caldo de pescado
+    - Azafrán
+    - 250 gr de almejas o chirlas
+    - Sal
+    - 12 gambas
+  - Preparacion:
 
 <!-- Lo siguiente es una referencia a Neon Genesis Evangelion -->
 
