@@ -26,6 +26,8 @@ vidi
 
 Gregor Johann Mendel formuló las hoy llamadas [leyes de Mendel](https://www.youtube.com/watch?v=dQw4w9WgXcQ) que dieron origen a la herencia genética
 
+![Man](/assets/Imagenes/Man.jpg)
+
 1. Proteger
 1. Avisar
 1. Socorrer
