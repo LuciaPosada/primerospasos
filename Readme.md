@@ -10,7 +10,7 @@ _Este testo esta en cursiva_
 
 ~~Error~~
 
-***Memento mori***
+***Memento mori*** :sunglasses:
 
 A<sup>a</sup>
 
@@ -25,6 +25,10 @@ vidi
 ```
 
 Gregor Johann Mendel formuló las hoy llamadas [leyes de Mendel](https://www.youtube.com/watch?v=dQw4w9WgXcQ) que dieron origen a la herencia genética
+
+1. Proteger
+1. Avisar
+1. Socorrer
 
 
 
