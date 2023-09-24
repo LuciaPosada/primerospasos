@@ -24,5 +24,7 @@ vici
 vidi
 ```
 
+Gregor Johann Mendel formuló las hoy llamadas [leyes de Mendel](https://www.youtube.com/watch?v=dQw4w9WgXcQ) que dieron origen a la herencia genética
+
 
 
